@@ -9,7 +9,7 @@ Este repositório contém os projetos e as aplicações desenvolvidas em Process
 - **third_party/**: Bibliotecas externas que o projeto utiliza, mantidas separadamente para facilitar a gestão.
 - **tests/**: Testes automatizados para garantir a qualidade e funcionamento do código.
 - **CMakeLists.txt**: Arquivo de configuração para o sistema de build CMake, que compila e organiza o projeto.
-## 🔄 Usar o projeto
+## 🔄 Usar o Projeto
 - Clonar o repositório no diretório escolhido.
 - Abrir o projeto pela IDE (VS CODE):
    - abrir prompt de comando ou Git Bash dentro do diretório;
