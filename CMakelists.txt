@@ -57,6 +57,9 @@ set(EXERCISES
     Modulo2/Ex1Parte2M2
     Modulo3/M3JogoCores
     AtividadesVivenciais/Vivencial01
+    Desafios/DesafioM2_ex01
+    Desafios/DesafioM2_ex02
+    Desafios/DesafioM2_ex03
 )
 
 add_compile_options(-Wno-pragmas)
