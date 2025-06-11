@@ -61,6 +61,7 @@ set(EXERCISES
     Desafios/DesafioM2_ex02
     Desafios/DesafioM2_ex03
     Desafios/DesafioM4/DesafioM4
+    Desafios/DesafioM5/DesafioM5
 )
 
 add_compile_options(-Wno-pragmas)
