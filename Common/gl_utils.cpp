@@ -13,7 +13,6 @@
 | it is really making life easier.                                             |
 \******************************************************************************/
 #include "gl_utils.h"
-
 #include <stdio.h>
 #include <time.h>
 #include <string.h>

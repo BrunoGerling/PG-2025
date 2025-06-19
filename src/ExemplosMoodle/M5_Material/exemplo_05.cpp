@@ -2,9 +2,7 @@
 // STB_IMAGE
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
-
 #include "gl_utils.h"
-
 #include <GLFW/glfw3.h>
 #include <assert.h>
 #include <stdio.h>
@@ -16,7 +14,6 @@
 #define GL_LOG_FILE "gl.log"
 #include <iostream>
 #include <vector>
-
 #include "Layer.h"
 
 using namespace std;
